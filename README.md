@@ -69,42 +69,6 @@ Learn React, Redux, Node.js, MongoDB, GraphQL, TypeScript, React Native, GitHub 
 - Login and updating the cache
 - Fragments and subscriptions
 
-### [Part 9 - TypeScript](https://fullstackopen.com/en/part9)
-
-- Background and introduction
-- First steps with TypeScript
-- Typing the express app
-- React with types
-
-### [Part 10 - React Native](https://fullstackopen.com/en/part10)
-
-- Introduction to React Native
-- React Native basics
-- Communicating with server
-- Testing and extending our application
-
-### [Part 11 - CI/CD](https://fullstackopen.com/en/part11)
-
-- Introduction to CI/CD
-- Getting started with GitHub Actions
-- Deployment
-- Keeping green
-- Expanding further
-
-### [Part 12 - Containers](https://fullstackopen.com/en/part12)
-
-- Introduction to containers
-- Building and configuring environments
-- Basics of Orchestration
-
-### [Part 13 - Using relational databases](https://fullstackopen.com/en/part13)
-
-- Using relational databases with Sequelize
-- Join tables and queries
-- Migrations, many-to-many relationships
-
-## Course Certificates
-
 ### Full Stack Certificate - Parts 0-7
 
 <p align="center">
