@@ -1,0 +1,10 @@
+POST http://localhost:3001/api/blogs
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkpvaG5ueSIsImlkIjoiNjRiM2Y3YjA5MzdkNTQxZDMyYTJmODc3IiwiaWF0IjoxNjg5NTE3NjI3LCJleHAiOjE2ODk1MjEyMjd9.9L3dXNWGHlycfrrshEUU2fb9FlKD_-0uvyIq5eYuZ6w
+
+{
+    "title": "HTTP can get frustrating",
+    "author": "S Schorb",
+    "url": "http://www.iimaginary.com",
+    "likes": "7"
+}
